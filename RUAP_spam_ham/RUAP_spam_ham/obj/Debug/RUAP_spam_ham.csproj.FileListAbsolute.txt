@@ -1,0 +1,14 @@
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\bin\Debug\RUAP_spam_ham.exe.config
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\bin\Debug\RUAP_spam_ham.exe
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\bin\Debug\RUAP_spam_ham.pdb
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\bin\Debug\Newtonsoft.Json.dll
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\bin\Debug\System.Net.Http.Formatting.dll
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\bin\Debug\Newtonsoft.Json.xml
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\bin\Debug\System.Net.Http.Formatting.xml
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\obj\Debug\RUAP_spam_ham.csprojResolveAssemblyReference.cache
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\obj\Debug\RUAP_spam_ham.Form1.resources
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\obj\Debug\RUAP_spam_ham.Properties.Resources.resources
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\obj\Debug\RUAP_spam_ham.csproj.GenerateResource.Cache
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\obj\Debug\RUAP_spam_ham.csproj.CoreCompileInputs.cache
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\obj\Debug\RUAP_spam_ham.exe
+E:\Dokumenti\Fakultet\4. godina\1. semestar\Računarstvo usluga i analiza podataka\RUAP-spam-ham\RUAP_spam_ham\RUAP_spam_ham\obj\Debug\RUAP_spam_ham.pdb
